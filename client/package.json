@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "http-server ./ --port=9000"
+  },
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "http-server": "^14.1.1"
+  }
+}

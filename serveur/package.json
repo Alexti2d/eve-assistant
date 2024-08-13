@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "node --experimental-modules serveur.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "express": "^4.18.1",
+    "ollama": "^0.5.0",
+    "request": "^2.88.2",
+    "ws": "^7.5.7"
+  }
+}
